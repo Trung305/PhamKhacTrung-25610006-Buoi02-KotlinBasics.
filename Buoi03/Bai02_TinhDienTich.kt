@@ -1,3 +1,4 @@
+//Phạm Khắc Trung - 25610006
 fun main() {
     tinhDienTich(2.0,3.0)
     tinhDienTich(3.0,8.0)
